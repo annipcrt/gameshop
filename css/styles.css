@@ -40,7 +40,7 @@ nav>ul {
     display: none;
 }
 
-.fa-cart-shopping {
+nav>.fa-cart-shopping {
     display: none;
 }
 
