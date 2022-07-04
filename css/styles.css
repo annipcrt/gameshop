@@ -263,7 +263,7 @@ main {
         padding: 0 9px;
     }
 
-    .fa-cart-shopping {
+    nav>.fa-cart-shopping {
         color: #D01418;
         cursor: pointer;
         display: block;
