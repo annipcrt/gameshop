@@ -145,11 +145,15 @@ main {
 }
 
 .sillas>h3 {
-    color: white;
-    font-weight: 400;
     position: absolute;
     bottom: 2.8rem;
     left: 10.8rem;
+}
+
+.sillas>h3>a {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
 }
 
 .computadoras {
@@ -157,13 +161,16 @@ main {
     margin: 20px 0;
 }
 
-
 .computadoras>h3 {
-    color: white;
-    font-weight: 400;
     position: absolute;
     bottom: 2.8rem;
     left: 9.8rem;
+}
+
+.computadoras>h3>a {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
 }
 
 .first-footer {
